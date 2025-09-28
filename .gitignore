@@ -1,0 +1,21 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Mac build stuff
+*.DS_Store
+
+# Rider
+.idea/
+
+# Other
+*.dll
+*.exe
